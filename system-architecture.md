@@ -1,4 +1,4 @@
-## System Architecture requirement (POC: Kun)
+## System Architecture requirement
 
 - Lastest update
   - CH is the best chance in the past years
